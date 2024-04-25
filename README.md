@@ -45,7 +45,7 @@ Hello! I'm a passionate software developer with a keen interest in machine learn
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+
 
 
 
